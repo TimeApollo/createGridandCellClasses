@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+}
+
+.cell {
+    height: 20px;
+    width: 20px;
+    border: black solid 1px;
+    background-color: green;
+}
